@@ -1,5 +1,15 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Page to display single repo</h1>
+    
   </div>
 </template>
+
+<script>
+</script>
+
+<style>
+.about{
+  color: #fff;
+}
+</style>
